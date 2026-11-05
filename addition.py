@@ -1,10 +1,8 @@
-# Python Addition Program
+# Addition Program - Branch B1
 
 a = 10
 b = 20
 
 result = a + b
 
-print("First Number:", a)
-print("Second Number:", b)
-print("Addition:", result)
+print("Branch B1 Addition:", result)
